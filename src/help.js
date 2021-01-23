@@ -11,6 +11,8 @@ const help = (prefix) => {
 👇
 wa.me/556993733829
 
+Canal do criador: https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
+
 ◪ *SOBRE*
   │
   ├─ ❏ ${prefix}info
