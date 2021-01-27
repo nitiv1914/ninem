@@ -1,6 +1,6 @@
 const help = (prefix) => {
 	return `
-「 *ninem BOT* 」
+「 *NITIV BOT* 」
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
@@ -9,9 +9,9 @@ const help = (prefix) => {
  *se o bot não responder conte até 10 e tente novamente*
   mais informações:
 👇
-wa.me/556993733829
+wa.me/5592992339160
 
-Canal do criador: https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
+🇮🇹👺
 
 ◪ *SOBRE*
   │
